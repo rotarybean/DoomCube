@@ -239,8 +239,9 @@ Designed and built by **Spenser Fenton** ([@rotarybean](https://github.com/rotar
 
 ## License
 
-- **Hardware designs and schematics:** [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt)
-- **Renders and documentation:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- **Code and configuration** (`KAOSv1.ino`, `24vKAOSv1.ino`, `printer.cfg`): [MIT](LICENSE)
+- **Hardware designs and schematics:** [CERN-OHL-P v2](LICENSE-HARDWARE)
+- **Renders and documentation:** [CC BY 4.0](LICENSE-DOCS)
 
 Third-party files (BigTreeTech pinouts and datasheets, Raspberry Pi GPIO diagram, and
 the stock Octopus Klipper config) belong to their respective owners and are included
