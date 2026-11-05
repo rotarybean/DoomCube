@@ -239,7 +239,6 @@ Designed and built by **Spenser Fenton** ([@rotarybean](https://github.com/rotar
 
 ## License
 
-- **Code and configuration** (`printer.cfg`, `KAOSv1.ino`, `24vKAOSv1.ino`): [MIT License](LICENSE)
 - **Hardware designs and schematics:** [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt)
 - **Renders and documentation:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
